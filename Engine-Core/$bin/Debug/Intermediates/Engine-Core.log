@@ -1,0 +1,14 @@
+﻿  BatchRenderer2D.cpp
+d:\github\brisingr-engine\engine-core\engine-core\src\maths\maths func.h(13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\github\brisingr-engine\engine-core\engine-core\src\maths\maths.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\github\brisingr-engine\engine-core\engine-core\src\maths\maths.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\github\brisingr-engine\engine-core\engine-core\src\maths\maths.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\github\brisingr-engine\engine-core\engine-core\src\graphics\batchrenderer2d.cpp(88): warning C4018: '<': signed/unsigned mismatch
+d:\github\brisingr-engine\engine-core\engine-core\src\graphics\batchrenderer2d.cpp(113): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\github\brisingr-engine\engine-core\engine-core\src\graphics\batchrenderer2d.cpp(114): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\github\brisingr-engine\engine-core\engine-core\src\graphics\batchrenderer2d.cpp(115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\github\brisingr-engine\engine-core\engine-core\src\graphics\batchrenderer2d.cpp(116): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\github\brisingr-engine\engine-core\engine-core\src\graphics\batchrenderer2d.cpp(161): warning C4018: '<': signed/unsigned mismatch
+d:\github\brisingr-engine\engine-core\engine-core\src\graphics\batchrenderer2d.cpp(263): warning C4018: '<': signed/unsigned mismatch
+  Engine-Core.vcxproj -> D:\GitHub\Brisingr-Engine\Engine-Core\$bin\Debug\Engine-Core.exe
+  Engine-Core.vcxproj -> D:\GitHub\Brisingr-Engine\Engine-Core\$bin\Debug\Engine-Core.pdb (Partial PDB)
